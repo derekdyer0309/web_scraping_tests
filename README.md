@@ -5,6 +5,7 @@ Each program demonstrates an increase in features of data scraping
 
 Order:
 
-**worldometer
-**gdptodebt
-**tinydeal
+**worldometer**
+**gdptodebt**
+**tinydeal**
+**glassesshop**
