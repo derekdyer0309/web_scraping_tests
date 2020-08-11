@@ -9,3 +9,6 @@ Order:
 1. **gdptodebt**
 1. **tinydeal**
 1. **glassesshop**
+1. **imdb**
+1. **books_to_scrape**
+
