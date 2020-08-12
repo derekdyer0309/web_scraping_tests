@@ -1,0 +1,502 @@
+[
+    {
+        "currency_pair": "BTC/USD",
+        "volume(24h)": "17 806 022.27 USD",
+        "change(%)": "0.81%"
+    },
+    {
+        "currency_pair": "ETH/USD",
+        "volume(24h)": "317 685.39 USD",
+        "change(%)": "-0.05%"
+    },
+    {
+        "currency_pair": "BCH/USD",
+        "volume(24h)": "265 191.97 USD",
+        "change(%)": "1.29%"
+    },
+    {
+        "currency_pair": "LTC/USD",
+        "volume(24h)": "98 576.17 USD",
+        "change(%)": "-1.35%"
+    },
+    {
+        "currency_pair": "XEM/USD",
+        "volume(24h)": "60 417.70 USD",
+        "change(%)": "-1.09%"
+    },
+    {
+        "currency_pair": "DOGE/USD",
+        "volume(24h)": "30 221.30 USD",
+        "change(%)": "-1.11%"
+    },
+    {
+        "currency_pair": "DASH/USD",
+        "volume(24h)": "14 856.20 USD",
+        "change(%)": "1.79%"
+    },
+    {
+        "currency_pair": "LSK/USD",
+        "volume(24h)": "14 216.61 USD",
+        "change(%)": "2.33%"
+    },
+    {
+        "currency_pair": "USD/RUR",
+        "volume(24h)": "4 133.54 USD",
+        "change(%)": "-1.04%"
+    },
+    {
+        "currency_pair": "XRP/USD",
+        "volume(24h)": "1 847.88 USD",
+        "change(%)": "1.44%"
+    },
+    {
+        "currency_pair": "ZEC/USD",
+        "volume(24h)": "1 677.80 USD",
+        "change(%)": "-4.89%"
+    },
+    {
+        "currency_pair": "TRX/USD",
+        "volume(24h)": "819.98 USD",
+        "change(%)": "1.99%"
+    },
+    {
+        "currency_pair": "EMC/USD",
+        "volume(24h)": "712.62 USD",
+        "change(%)": "1.44%"
+    },
+    {
+        "currency_pair": "USDT/USD",
+        "volume(24h)": "679.62 USD",
+        "change(%)": "0.98%"
+    },
+    {
+        "currency_pair": "ZRX/USD",
+        "volume(24h)": "691.04 USD",
+        "change(%)": "0.81%"
+    },
+    {
+        "currency_pair": "NEO/USD",
+        "volume(24h)": "502.07 USD",
+        "change(%)": "3.05%"
+    },
+    {
+        "currency_pair": "VRS/USD",
+        "volume(24h)": "379.51 USD",
+        "change(%)": "3.23%"
+    },
+    {
+        "currency_pair": "HB/USD",
+        "volume(24h)": "350.25 USD",
+        "change(%)": "-0.56%"
+    },
+    {
+        "currency_pair": "CPC/USD",
+        "volume(24h)": "327.00 USD",
+        "change(%)": "-3.9%"
+    },
+    {
+        "currency_pair": "PZM/USD",
+        "volume(24h)": "331.84 USD",
+        "change(%)": "3.68%"
+    },
+    {
+        "currency_pair": "EUR/USD",
+        "volume(24h)": "317.68 USD",
+        "change(%)": "1.37%"
+    },
+    {
+        "currency_pair": "MDC/USD",
+        "volume(24h)": "359.37 USD",
+        "change(%)": "13.89%"
+    },
+    {
+        "currency_pair": "SHIFT/USD",
+        "volume(24h)": "256.55 USD",
+        "change(%)": "-0.74%"
+    },
+    {
+        "currency_pair": "YOC/USD",
+        "volume(24h)": "334.22 USD",
+        "change(%)": "7.41%"
+    },
+    {
+        "currency_pair": "DGB/USD",
+        "volume(24h)": "245.46 USD",
+        "change(%)": "6.38%"
+    },
+    {
+        "currency_pair": "QTUM/USD",
+        "volume(24h)": "139.06 USD",
+        "change(%)": "5.76%"
+    },
+    {
+        "currency_pair": "EOS/USD",
+        "volume(24h)": "117.64 USD",
+        "change(%)": "-0.59%"
+    },
+    {
+        "currency_pair": "ABBC/USD",
+        "volume(24h)": "107.20 USD",
+        "change(%)": "-0.09%"
+    },
+    {
+        "currency_pair": "MNC/USD",
+        "volume(24h)": "86.07 USD",
+        "change(%)": "-0.97%"
+    },
+    {
+        "currency_pair": "VMR/USD",
+        "volume(24h)": "73.93 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "ANT/USD",
+        "volume(24h)": "66.48 USD",
+        "change(%)": "0.52%"
+    },
+    {
+        "currency_pair": "BSHORT/USD",
+        "volume(24h)": "43.23 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "ITCM/USD",
+        "volume(24h)": "33.96 USD",
+        "change(%)": "-17.89%"
+    },
+    {
+        "currency_pair": "CRC/USD",
+        "volume(24h)": "28.21 USD",
+        "change(%)": "-19.34%"
+    },
+    {
+        "currency_pair": "MCO/USD",
+        "volume(24h)": "20.80 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "BAT/USD",
+        "volume(24h)": "19.29 USD",
+        "change(%)": "4.02%"
+    },
+    {
+        "currency_pair": "RLC/USD",
+        "volume(24h)": "5.45 USD",
+        "change(%)": "0.1%"
+    },
+    {
+        "currency_pair": "PHI/USD",
+        "volume(24h)": "4.61 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "TAAS/USD",
+        "volume(24h)": "2.44 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "DYN/USD",
+        "volume(24h)": "1.77 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "INSN/USD",
+        "volume(24h)": "1.62 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "PPC/USD",
+        "volume(24h)": "1.39 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "KRB/USD",
+        "volume(24h)": "0.06 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "HST/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "ADL/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "XRC/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "BTG/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "OBITS/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "DIME/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "TUBE/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "TUSD/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "TIME/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "ARC/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "KNC/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "LKE/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "onLEXpa/USD",
+        "volume(24h)": "0.41 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "GNO/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "HNR/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "BID/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "PLBT/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "DIG/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "STRAT/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "SNT/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "SNB/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "PUT/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "PAX/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "EDG/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "CBR/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "CLPC/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "NVC/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "VOISE/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "TRST/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "PAI/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "ETHOS/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "PPT/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "OTON/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "DIBC/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "ARK/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "PRO/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "USD/EURN",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "DMC/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "VIB/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "OMG/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "REP/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "LibraF/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "CPP/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "NAM/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "SNGLS/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "BIO/USD",
+        "volume(24h)": "1.30 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "TKN/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "ASAFE2/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "HVN/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "SC/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "PIVX/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "CLOAK/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "RVN/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "THS/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "BFF/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "USDA/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "GNT/USD",
+        "volume(24h)": "0.00 USD",
+        "change(%)": "0%"
+    }
+]
