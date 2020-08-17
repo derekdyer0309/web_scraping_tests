@@ -13,3 +13,4 @@ Order:
 1. **books_to_scrape**
 1. **livecoin**
 1. **quotes**
+1. **livecoin_selenium**

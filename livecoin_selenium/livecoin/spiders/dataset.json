@@ -1,0 +1,157 @@
+[
+    {
+        "currency_pair": "BTC/USD",
+        "volume(24h)": "13 904 997.00 USD",
+        "change(%)": "4.11%"
+    },
+    {
+        "currency_pair": "ETH/USD",
+        "volume(24h)": "209 345.01 USD",
+        "change(%)": "1.67%"
+    },
+    {
+        "currency_pair": "BCH/USD",
+        "volume(24h)": "132 920.31 USD",
+        "change(%)": "4.4%"
+    },
+    {
+        "currency_pair": "LTC/USD",
+        "volume(24h)": "110 745.35 USD",
+        "change(%)": "7.93%"
+    },
+    {
+        "currency_pair": "XEM/USD",
+        "volume(24h)": "65 752.89 USD",
+        "change(%)": "5.63%"
+    },
+    {
+        "currency_pair": "DOGE/USD",
+        "volume(24h)": "41 774.29 USD",
+        "change(%)": "3.38%"
+    },
+    {
+        "currency_pair": "DASH/USD",
+        "volume(24h)": "26 973.68 USD",
+        "change(%)": "4.06%"
+    },
+    {
+        "currency_pair": "LSK/USD",
+        "volume(24h)": "18 575.09 USD",
+        "change(%)": "1.62%"
+    },
+    {
+        "currency_pair": "UQC/USD",
+        "volume(24h)": "5 686.03 USD",
+        "change(%)": "7.02%"
+    },
+    {
+        "currency_pair": "USD/RUR",
+        "volume(24h)": "3 184.03 USD",
+        "change(%)": "-1.25%"
+    },
+    {
+        "currency_pair": "XRP/USD",
+        "volume(24h)": "2 483.04 USD",
+        "change(%)": "5.79%"
+    },
+    {
+        "currency_pair": "PZM/USD",
+        "volume(24h)": "1 792.97 USD",
+        "change(%)": "3.13%"
+    },
+    {
+        "currency_pair": "TRX/USD",
+        "volume(24h)": "1 634.46 USD",
+        "change(%)": "10.45%"
+    },
+    {
+        "currency_pair": "OMG/USD",
+        "volume(24h)": "1 497.28 USD",
+        "change(%)": "18.98%"
+    },
+    {
+        "currency_pair": "NEO/USD",
+        "volume(24h)": "1 320.08 USD",
+        "change(%)": "8.02%"
+    },
+    {
+        "currency_pair": "USDT/USD",
+        "volume(24h)": "999.68 USD",
+        "change(%)": "-0.01%"
+    },
+    {
+        "currency_pair": "EMC/USD",
+        "volume(24h)": "769.71 USD",
+        "change(%)": "1.02%"
+    },
+    {
+        "currency_pair": "ZEC/USD",
+        "volume(24h)": "627.51 USD",
+        "change(%)": "3.84%"
+    },
+    {
+        "currency_pair": "EUR/USD",
+        "volume(24h)": "605.88 USD",
+        "change(%)": "3.05%"
+    },
+    {
+        "currency_pair": "QTUM/USD",
+        "volume(24h)": "410.65 USD",
+        "change(%)": "-0.04%"
+    },
+    {
+        "currency_pair": "CPC/USD",
+        "volume(24h)": "372.98 USD",
+        "change(%)": "-5.34%"
+    },
+    {
+        "currency_pair": "HB/USD",
+        "volume(24h)": "313.04 USD",
+        "change(%)": "-5.41%"
+    },
+    {
+        "currency_pair": "MDC/USD",
+        "volume(24h)": "313.12 USD",
+        "change(%)": "7.35%"
+    },
+    {
+        "currency_pair": "FirstBlood/USD",
+        "volume(24h)": "464.16 USD",
+        "change(%)": "20.09%"
+    },
+    {
+        "currency_pair": "VRS/USD",
+        "volume(24h)": "258.14 USD",
+        "change(%)": "2.35%"
+    },
+    {
+        "currency_pair": "ZRX/USD",
+        "volume(24h)": "179.14 USD",
+        "change(%)": "0.6%"
+    },
+    {
+        "currency_pair": "EOS/USD",
+        "volume(24h)": "177.85 USD",
+        "change(%)": "0.41%"
+    },
+    {
+        "currency_pair": "EL/USD",
+        "volume(24h)": "180.37 USD",
+        "change(%)": "-1.46%"
+    },
+    {
+        "currency_pair": "SHIFT/USD",
+        "volume(24h)": "143.18 USD",
+        "change(%)": "-7.69%"
+    },
+    {
+        "currency_pair": "AMM/USD",
+        "volume(24h)": "129.39 USD",
+        "change(%)": "0%"
+    },
+    {
+        "currency_pair": "PLBT/USD",
+        "volume(24h)": "87.35 USD",
+        "change(%)": "0.35%"
+    }
+]
