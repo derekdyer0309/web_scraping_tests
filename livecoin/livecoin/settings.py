@@ -67,9 +67,9 @@ DUPEFILTER_CLASS = 'scrapy_splash.SplashAwareDupeFilter'
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
-#ITEM_PIPELINES = {
-#    'livecoin.pipelines.LivecoinPipeline': 300,
-#}
+ITEM_PIPELINES = {
+   'livecoin.pipelines.MongodbPipeline': 300,
+}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html
@@ -92,6 +92,6 @@ DUPEFILTER_CLASS = 'scrapy_splash.SplashAwareDupeFilter'
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
-SPLASH_URL = 'https://localhost:8050/'
+SPLASH_URL = 'http://192.168.0.28:8050/'
 
 FEED_EXPORT_ENCODING = 'utf-8'
