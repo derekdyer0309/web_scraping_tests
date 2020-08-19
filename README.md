@@ -14,3 +14,4 @@ Order:
 1. **livecoin**
 1. **quotes**
 1. **livecoin_selenium**
+1. **silkdeals**
